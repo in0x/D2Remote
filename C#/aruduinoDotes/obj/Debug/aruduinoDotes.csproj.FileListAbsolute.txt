@@ -1,0 +1,12 @@
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.exe.config
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.exe
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.pdb
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.csprojResolveAssemblyReference.cache
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.exe
+C:\Users\Philipp\Documents\GameDev\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.pdb
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.exe.config
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.exe
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.pdb
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.exe
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\bin\Debug\aruduinoDotes.pdb
+C:\Users\Philipp\Documents\Visual Studio 2015\Projects\aruduinoDotes\aruduinoDotes\obj\Debug\aruduinoDotes.csprojResolveAssemblyReference.cache
